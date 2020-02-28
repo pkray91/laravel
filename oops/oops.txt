@@ -1,0 +1,9 @@
+variable:-(properties) There are two types of variable.
+1)Instace variable->Which is belongs to function.
+2)static variabele or class variable->this belongs to class.
+
+Method
+a)instance method.(this has two things accessor or getter(to access the value only) 
+and mutator or setter(to modyfy the value)).
+b)class method.
+c)static method.

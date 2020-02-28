@@ -1,0 +1,83 @@
+1>Brife histrory.
+Design by ->Guido van Rossum in 1990. (3.7.3 now in  market).
+developer->Python Software Foundation.
+License->Python Software Foundation License.
+Filename extensions->.py, .pyc, .pyd, .pyo (prior to 3.5),.pyw, .pyz (since 3.5).
+Website->www.python.org.
+Python is an interpreted, high-level, general-purpose programming language. 
+Created by Guido van Rossum and first released in 1991,
+Python's design philosophy emphasizes code readability
+with its notable use of significant whitespace. 
+Its language constructs and object-oriented approach aim to help programmers 
+write clear,logical code for small and large-scale projects.
+===================================================
+Tools.
+a)Editor.(VS Code.sublime,Atom,notepad,notepad++)
+b)IDE(Integrated Development Enviroment(PyCharm,Thonny,Netbeans,Eclips)).
+->Autocomplation.
+->debuging.
+->Testing.
+===================================================
+2> Use of Python.
+AI->It is a form of Computer Science used to create Intellent Machine that can recognise human speech,objects,can learn ,plane and solve the problems like humans.
+Home appliences are voice controlled.
+Sensors are ajust the light and air cooler according to the climate.
+securty system detect the movement outside and warn the residents.
+All the appliences are connected to each other.
+can detect vehical on driveway and let the owner konw.
+Home appliences controlled remotly thorough the phone.
+****************************************************************************
+it use in Healthcare,media,finance,transpotation,education,aviation,marketing etc.
+*****************************************************************************
+->Machine Learning.(analyse any file or givendata set,recognising things,google recogniser,
+mail sending).
+->Data Science
+->S/W Testing
+->Automation
+->Mobile App.
+->Desktop App.
+->Hacking.
+->Testing.
+->Deep learning
+->Data analysis/system adminstarion
+->in games,
+->web applications,
+->network servers, 
+->scientific computing,
+->media tools,/Animations Software
+->application scripting, etc. 
+===================================================
+3>Why Big Compnies use Puthon.
+Interactive
+Interpreted
+Modular
+Dynamic
+Object-oriented
+Portable
+High level
+Extensible in C++ & C.
+====================================================
+4>Advantage
+Extensive Support Libraries
+Integration Feature
+Improved Programmer’s Productivity
+Productivity
+====================================================
+5>Disatvanteg.
+Difficulty in Using Other Languages
+Weak in Mobile Computing
+Gets Slow in Speed
+Run-time Errors
+====================================================
+Python Numbers
+There are three numeric types in Python:
+
+int
+float
+complex
+====================================================
+DATABASE
+pip install pymysql mysql-connector
+
+====================================================
+Tkinter:- it is a module or package to create GUI in python.

@@ -1,0 +1,8 @@
+
+polymorphism:- One thing can take multipale forms is called polymorphism.
+
+
+1)Duck typing
+2)operator overloading
+3)Method overloading
+4)method overriding.

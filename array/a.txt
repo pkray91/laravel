@@ -1,0 +1,5 @@
+array.buffer_info
+typecode
+reverse
+vals = array('i',['2','3',.....])
+newArr = array(vals.typecode,(a for a in vals))
